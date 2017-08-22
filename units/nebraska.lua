@@ -33,7 +33,7 @@ return {
 		maxdamage = 65000,
 		maxslope = 10,
 		maxwaterdepth = 0,
-		name = "NEBRASKA",
+		name = "Nebraska",
 		noautofire = false,
 		nochasecategory = "ALL",
 		objectname = "NEBRASKA",
