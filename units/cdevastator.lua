@@ -46,7 +46,7 @@ return {
 		metalstorage = 1000,
 		metaluse = 0,
 		mobilestandorders = 1,
-		name = "DEVASTATOR",
+		name = "Devastator",
 		noautofire = false,
 		nochasecategory = "SUB VTOL",
 		objectname = "CDevastator",
